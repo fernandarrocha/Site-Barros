@@ -215,5 +215,4 @@ Este projeto foi desenvolvido especificamente para a Barros & Associados Contabi
 
 ---
 
-**Desenvolvido com ❤️ seguindo as melhores práticas de desenvolvimento web moderno.**
 
