@@ -6,7 +6,6 @@ Este projeto foi desenvolvido para criar um site profissional de contabilidade p
 
 ### 🎯 Objetivos Alcançados
 
-- ✅ Site moderno e responsivo inspirado na Contabilizei
 - ✅ Implementação completa das especificações do projeto Barros & Associados
 - ✅ Aplicação de princípios de neuromarketing conforme solicitado
 - ✅ Paleta de cores estratégica (azul, dourado, roxo)
