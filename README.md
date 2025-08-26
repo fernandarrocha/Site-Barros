@@ -44,10 +44,6 @@ barros-associados-site/
 │   ├── dist/                    # Build de produção
 │   └── package.json             # Dependências do projeto
 ├── assets/                      # Assets originais coletados
-├── analise_projeto_contabilizei.md
-├── planejamento_estrutura_design.md
-├── assets_coletados.md
-├── teste_site_resultados.md
 └── README.md                    # Este arquivo
 ```
 
